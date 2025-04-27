@@ -58,3 +58,8 @@ This will query the system with "tell me about cats" and generate an answer base
 ## Contributions
 
 Feel free to fork the repository, open issues, and submit pull requests. Contributions are always welcome!
+
+---
+🙌 Acknowledgements
+
+This project is based on an example provided by LangChain.
